@@ -1,0 +1,2 @@
+# gzcmcc_vistech_project
+本github托管库主要管理远行公司为贵州移动开发的办公应用系统与SOA平台相关资料所用
